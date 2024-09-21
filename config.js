@@ -1,5 +1,6 @@
 
 //commented by maha
+//commented by ajith
 tailwind.config = {
     theme: {
         extend: {
